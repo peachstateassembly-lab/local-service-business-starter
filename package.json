@@ -1,0 +1,30 @@
+{
+  "name": "local-service-business-starter",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Open-source starter for local service business websites with SEO, structured data, service pages, and reusable components.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.4.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^15.4.0"
+  },
+  "keywords": [
+    "local-business",
+    "local-seo",
+    "small-business",
+    "nextjs",
+    "schema-org",
+    "service-business"
+  ],
+  "license": "MIT"
+}
