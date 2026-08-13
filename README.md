@@ -81,3 +81,11 @@ As the project grows, contribution guidelines and development documentation will
 ## License
 
 This project is licensed under the MIT License.
+
+## Getting started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/peachstateassembly-lab/local-service-business-starter.git
+cd local-service-business-starter
